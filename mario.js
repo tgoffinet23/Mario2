@@ -3,7 +3,7 @@ drawPyramid(5);
 
 function drawPyramid(height) {
  
-    for (var row = 0; row < height; row++) {
+    for (var row = 0; row < height; row++) { 
 
         
         var numBricks = row + 2;
